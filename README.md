@@ -2,4 +2,4 @@
 
 The file Version-Control-Lab.ipynb asks for a name, a number, and then prints the name number times. 
 
-The team members are: Michael Wolfe, David Zapata
+The team members are: David Zapata, Michael Wolfe

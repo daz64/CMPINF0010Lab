@@ -21,4 +21,4 @@ To contribute, fork code anf open on VSCode. Change Python code and test changes
 
 ## License and Rules of Conduct
 
-We chose our license and rules of conduct because we thought they were well written and covered basic aspects of common licenses or rules of conduct. We got our license from here: https://www.contributor-covenant.org/ , specifically, the CC2.1 Markdown.
+We chose our license and rules of conduct because we thought they were well written and covered basic aspects of common licenses or rules of conduct. We got our license from here: https://www.contributor-covenant.org/, specifically, the CC2.1 Markdown.
